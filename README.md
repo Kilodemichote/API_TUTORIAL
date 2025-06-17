@@ -91,7 +91,7 @@ Para subir nuestra API a producción en Render, sigue estos pasos:
 ## Preparación del repositorio
 
 - Crea un repositorio con los archivos del proyecto que ya tienes:
-  - Código de la API REST & Machine Learning.
+  - Código de la API_TUTORIAL.
   - Dockerfile y configuración de Docker.
 
 - En el archivo `requirements.txt`, agrega el módulo **gunicorn**.  
@@ -144,6 +144,6 @@ Para subir nuestra API a producción en Render, sigue estos pasos:
 - Si todo está bien, Render empezará a construir y desplegar tu API.
 
 - Cuando termine, podrás visitar tu API en una URL como esta:  
-  `https://api-rest-and-machine-learning-example.onrender.com/`
+  `https://API_TUTORIAL.onrender.com/`
 
 
