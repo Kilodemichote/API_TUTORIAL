@@ -146,8 +146,4 @@ Para subir nuestra API a producción en Render, sigue estos pasos:
 - Cuando termine, podrás visitar tu API en una URL como esta:  
   `https://api-rest-and-machine-learning-example.onrender.com/`
 
----
-
-¿Quieres que te ayude a crear el archivo `requirements.txt` o el comando `gunicorn` para tu proyecto?  
-
 
